@@ -1,4 +1,4 @@
-# Remote_measurement_of_magnetic_flux_sensor
+# Remote_Measurement_of_Magnetic_Flux_Sensor
 
 - Microcontroller: PIC16F877A
 - SERIAL ETHERNET CONVERTER
